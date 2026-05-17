@@ -95,8 +95,7 @@ A mini banking management project developed in C to simulate banking operations.
 
 # 📂 Repository Structure
 
-```bash
-CodeAlpha_C_Programming/
+CodeAlpha_tasks
 │
 ├── Calculator/
 │   └── calculator.c
@@ -105,7 +104,7 @@ CodeAlpha_C_Programming/
 │   └── matrix.c
 │
 ├── Student_Management_System/
-│   └── student_management.c
+│   └── student_management_system.c
 │
 ├── Banking_System/
 │   └── banking_system.c
